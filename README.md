@@ -1,1 +1,1 @@
-# codeingTest
+algorithmTest
